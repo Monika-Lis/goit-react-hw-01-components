@@ -1,6 +1,4 @@
 @import-normalize; /* bring in normalize.css styles */
-@import './components/profile.css';
-@import './components/Statisctics.css';
 
 body {
   margin: 0;
