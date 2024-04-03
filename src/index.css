@@ -1,5 +1,6 @@
 @import-normalize; /* bring in normalize.css styles */
 @import './components/profile.css';
+@import './components/Statisctics.css';
 
 body {
   margin: 0;
@@ -19,5 +20,7 @@ code {
 .background {
   margin-top: 30px;
   display: flex;
-  justify-content: center;
+  gap: 40px;
+  flex-direction: column;
+  align-items: center;
 }
